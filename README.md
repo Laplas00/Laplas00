@@ -101,6 +101,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Laplas00&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laplas00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img align="center" src="https://camo.githubusercontent.com/8bb8d29d91e22919b7954e4102fd58bbcab1effc99b6c0646a728c9f866dfb24/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d79756562616978267468656d653d68696768636f6e7472617374267265706f3d70616e6775" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&amp;theme=dark&amp;repo=pangu" style="max-width: 100%;">
 </div>
 
 ###
