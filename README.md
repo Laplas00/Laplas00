@@ -1,16 +1,26 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Laplas00/count.svg?"  />
-</div>
+<h1 align="center">Hi 👋, I'm Laplas</h1>
+<h3 align="center">A passionate backend developer from Ukraine</h3>
 
-###
+---
 
-<h2 align="left">About me</h2>
+![followers](https://img.shields.io/github/followers/Laplas00?style=social)
+![stars](https://img.shields.io/github/stars/Laplas00?style=social)
 
-###
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Laplas00}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://avatars.githubusercontent.com/u/61288992?v=4" alt="Laplas00" />
 
-<p align="left">Sure of such knowledge:</p>
+- 🔭 I’m currently working on [my freelance profile]()
+- 🌱 I’m currently learning **C++**
+- 👨‍💻 All of my projects are available at [https://github.com/Laplas00](https://github.com/Laplas00)
+- 📫 Reach me in [Telegram]( **t.me/LaplasRouse**).
+- 📄 Know about my experiences [here](https://res.cloudinary.com/upwork-fp/image/upload/v1744341886/profile/portfolio/1910484735327034230/ilkubi4dyk4mgkngsqnp.pdf)
+- ⚡ Fun fact **Direction of my knowledge is Computer Science, High Performance Software Engineering, Robotics**
 
-###
+### 🛠 Tech Stack
+
+#### Sure of such knowledge:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
@@ -50,14 +60,8 @@
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
 </div>
 
-###
-
-<p align="left">Encountered such things:</p>
-
-###
-
+#### Encountered such things:
 <br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="10" />
@@ -92,29 +96,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
 </div>
 
-###
+### 💬 Contact Me
 
-<h2 align="left"></h2>
+[![Gmail](https://img.shields.io/badge/-laplas.rouse@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laplas.rouse@gmail.com)
 
-###
+### 🚦 Stats
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Laplas00&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laplas00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-###
-
-<a href="https://github.com/anuraghazra/convoychat">
+<div>
+  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=WalletTester&theme=dark&hide_border=true&order=2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=WalletTester&theme=dark&hide_border=true&order=2" />
 </a>
+</div>
 
-###
+-----
+Credits: [Laplas00](https://github.com/Laplas00)
+
+Last Edited on: 24/09/2021
+
 
 <img src="https://raw.githubusercontent.com/Laplas00/Laplas00/output/snake.svg" alt="Snake animation" />
-
-###
