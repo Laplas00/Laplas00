@@ -99,7 +99,7 @@
 ### 💬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-laplas.rouse@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laplas.rouse@gmail.com)
-[![Telegram](https://t.me/LaplasRouse)]
+<a href="https://t.me/LaplasRouse">Telegram</a>
 
 
 ### 🚦 Stats
@@ -119,12 +119,6 @@
   </a>
   <a href="https://github.com/Laplas00/Post-geneartor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=Post-geneartor&theme=dark&hide_border=true&order=2" />
-  </a>
-  <a href="https://github.com/Laplas00/Faswt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=Faswt&theme=dark&hide_border=true&order=2" />
-  </a>
-  <a href="https://github.com/Laplas00/FinanceAssistance">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=FinanceAssistance&theme=dark&hide_border=true&order=2" />
   </a>
 </div>
 
