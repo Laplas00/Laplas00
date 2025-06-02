@@ -99,6 +99,8 @@
 ### 💬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-laplas.rouse@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laplas.rouse@gmail.com)
+[![Telegram](https://t.me/LaplasRouse)]
+
 
 ### 🚦 Stats
 
@@ -109,18 +111,27 @@
 </div>
 
 <div>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=WalletTester&theme=dark&hide_border=true&order=2" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=WalletTester&theme=dark&hide_border=true&order=2" />
-</a>
+  <a href="https://github.com/Laplas00/security-labs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=security-labs&theme=dark&hide_border=true&order=2" />
+  </a>
+  <a href="https://github.com/Laplas00/WalletTester">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=WalletTester&theme=dark&hide_border=true&order=2" />
+  </a>
+  <a href="https://github.com/Laplas00/Post-geneartor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=Post-geneartor&theme=dark&hide_border=true&order=2" />
+  </a>
+  <a href="https://github.com/Laplas00/Faswt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=Faswt&theme=dark&hide_border=true&order=2" />
+  </a>
+  <a href="https://github.com/Laplas00/FinanceAssistance">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=FinanceAssistance&theme=dark&hide_border=true&order=2" />
+  </a>
 </div>
 
 -----
 Credits: [Laplas00](https://github.com/Laplas00)
 
-Last Edited on: 24/09/2021
+Last Edited on: 03/06/2025
 
 
 <img src="https://raw.githubusercontent.com/Laplas00/Laplas00/output/snake.svg" alt="Snake animation" />
