@@ -99,7 +99,6 @@
 ### 💬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-laplas.rouse@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laplas.rouse@gmail.com)
-<a href="https://t.me/LaplasRouse">Telegram</a>
 
 
 ### 🚦 Stats
