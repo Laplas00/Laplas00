@@ -6,8 +6,6 @@
 ![followers](https://img.shields.io/github/followers/Laplas00?style=social)
 ![stars](https://img.shields.io/github/stars/Laplas00?style=social)
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Laplas00}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 <img align="right" height="220px" src="https://avatars.githubusercontent.com/u/61288992?v=4" alt="Laplas00" />
 
@@ -118,6 +116,9 @@
   </a>
   <a href="https://github.com/Laplas00/Post-geneartor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=Post-geneartor&theme=dark&hide_border=true&order=2" />
+  </a>
+    <a href="https://github.com/Laplas00/security-labs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=security-labs&theme=dark&hide_border=true&order=2" />
   </a>
 </div>
 
