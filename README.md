@@ -9,8 +9,7 @@
 <br/>
 <img align="right" height="220px" src="https://avatars.githubusercontent.com/u/61288992?v=4" alt="Laplas00" />
 
-- 🔭 I’m currently working on [my freelance profile]()
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently looking for job as **software dev** 
 - 👨‍💻 All of my projects are available at [https://github.com/Laplas00](https://github.com/Laplas00)
 - 📫 Reach me in [Telegram]( **t.me/LaplasRouse**).
 - 📄 Know about my experiences [here](https://res.cloudinary.com/upwork-fp/image/upload/v1744341886/profile/portfolio/1910484735327034230/ilkubi4dyk4mgkngsqnp.pdf)
