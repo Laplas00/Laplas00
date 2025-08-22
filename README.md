@@ -66,8 +66,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
