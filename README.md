@@ -96,33 +96,10 @@
 [![Gmail](https://img.shields.io/badge/-laplas.rouse@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laplas.rouse@gmail.com)
 
 
-### 🚦 Stats
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laplas00&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laplas00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div>
-  <a href="https://github.com/Laplas00/security-labs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=security-labs&theme=dark&hide_border=true&order=2" />
-  </a>
-  <a href="https://github.com/Laplas00/WalletTester">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=WalletTester&theme=dark&hide_border=true&order=2" />
-  </a>
-  <a href="https://github.com/Laplas00/Post-geneartor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=Post-geneartor&theme=dark&hide_border=true&order=2" />
-  </a>
-    <a href="https://github.com/Laplas00/security-labs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laplas00&repo=security-labs&theme=dark&hide_border=true&order=2" />
-  </a>
-</div>
-
 -----
 Credits: [Laplas00](https://github.com/Laplas00)
 
-Last Edited on: 03/06/2025
+Last Edited on: 08/10/2025
 
 
 <img src="https://raw.githubusercontent.com/Laplas00/Laplas00/output/snake.svg" alt="Snake animation" />
