@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning to live
 - 👨‍💻 All of my projects are available at [https://github.com/Laplas00](https://github.com/Laplas00)
 - 📫 Reach me in [Telegram]( **t.me/LaplasRouse**).
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1mMfa7wpJ0QCLfsvbxs7QQ5K8JzYKP-EAyY-tmz-dOGU/edit?usp=sharing)
 - ⚡ Fun fact **Direction of my knowledge is Computer Science, High Performance Software Engineering, Robotics**
 
 ### 🛠 Tech Stack
@@ -91,15 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
 </div>
 
-### 💬 Contact Me
-
-[![Gmail](https://img.shields.io/badge/-laplas.rouse@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:laplas.rouse@gmail.com)
-
 
 -----
-Credits: [Laplas00](https://github.com/Laplas00)
-
-Last Edited on: 08/10/2025
-
 
 <img src="https://raw.githubusercontent.com/Laplas00/Laplas00/output/snake.svg" alt="Snake animation" />
