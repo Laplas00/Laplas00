@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning to live
 - 👨‍💻 All of my projects are available at [https://github.com/Laplas00](https://github.com/Laplas00)
-- 📫 Reach me in [Telegram]( **t.me/LaplasRouse**).
+- 📫 Reach me in [Telegram]( **t.me/laplas_rouse**).
 - ⚡ Fun fact **Direction of my knowledge is Computer Science, High Performance Software Engineering, Robotics**
 
 ### 🛠 Tech Stack
