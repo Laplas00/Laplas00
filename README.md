@@ -4,8 +4,7 @@
 ---
 
 
-<br/>
-- 🌱 I’m currently improve my Software Engineer skill
+- 🌱 I’m currently improve my Software Engineer skill.
 - 👨‍💻 All of my projects are available at [https://github.com/Laplas00](https://github.com/Laplas00)
 - 📫 Reach me in [Telegram]( **https://t.me/laplas_rouz**).
 - ⚡ Fun fact **Direction of my knowledge is Computer Science, High Performance Software Engineering, Robotics**
