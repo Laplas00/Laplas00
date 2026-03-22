@@ -3,15 +3,11 @@
 
 ---
 
-![followers](https://img.shields.io/github/followers/Laplas00?style=social)
-![stars](https://img.shields.io/github/stars/Laplas00?style=social)
 
 <br/>
-<img align="right" height="220px" src="https://avatars.githubusercontent.com/u/61288992?v=4" alt="Laplas00" />
-
-- 🌱 I’m currently learning to live
+- 🌱 I’m currently improve my Software Engineer skill
 - 👨‍💻 All of my projects are available at [https://github.com/Laplas00](https://github.com/Laplas00)
-- 📫 Reach me in [Telegram]( **https://t.me/laplas_rouse**).
+- 📫 Reach me in [Telegram]( **https://t.me/laplas_rouz**).
 - ⚡ Fun fact **Direction of my knowledge is Computer Science, High Performance Software Engineering, Robotics**
 
 ### 🛠 Tech Stack
