@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer</h3>
+<h3>Software Engineer</h3>
 
 <p>My name is Laplas, 23 y.o.</p>
 <p>Build websites, systems and different sorts of application</p>
