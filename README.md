@@ -1,5 +1,8 @@
-<h1 align="center">Laplas page</h1>
-<h3 align="center">Just Be Better..</h3>
+<h3 align="center">Software Engineer</h3>
+
+<p>My name is Laplas, 23 y.o.</p>
+<p>Build websites, systems and different sorts of application</p>
+<p>Interesting projects, startups, creating architecture, that's what I like</p>
 
 ---
 ### 🛠 Tech Stack
