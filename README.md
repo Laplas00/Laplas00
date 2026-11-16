@@ -1,8 +1,8 @@
 <h1>Failure profile</h1>
 
-<p>My name is Laplas, 23 y.o.</p>
-<p>Build websites, systems and different sorts of application</p>
-<p>Interesting projects, startups, creating architecture, that's what I like</p>
+<p>My name is Laplas, 24 y.o.</p>
+<p>Build websites, different sorts of applications</p>
+<p>Be better in what i do - that's what I like</p>
 
 ---
 ### 🛠 Tech Stack
